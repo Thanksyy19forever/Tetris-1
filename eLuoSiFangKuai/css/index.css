@@ -1,0 +1,33 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#main{
+	position: absolute;
+	width: 1000px;
+	height:800px;
+	background-color: rgba(29, 31,33);
+	
+	margin:100px 400px;
+}
+#score_pan{
+	text-align: center;
+	height: 100px;
+	width: 200px;
+	
+	
+	line-height: 50px;
+	position: absolute;
+	margin:100px 400px;
+	opacity: 0.5;
+	border: 1px solid green;
+}
+#bgImg{
+	text-align: center;
+	height: 800px;
+	width: 1000px;
+	position: absolute;
+	margin:100px 400px;
+	opacity: 0.5;
+	background-image: url("1.jpg");
+}
